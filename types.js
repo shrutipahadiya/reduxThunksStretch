@@ -1,0 +1,4 @@
+module.exports = {
+  GOT_DESSERTS_DATA: 'GOT_DESSERTS_DATA',
+  NEW_DESSERT_DATA: 'NEW_DESSERT_DATA',
+};

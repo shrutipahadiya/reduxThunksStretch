@@ -1,0 +1,23 @@
+{
+  "name": "redux_thunks_stretch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test:watch": "./node_modules/.bin/jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-mock-adapter": "^1.18.1",
+    "cross-fetch": "^3.0.5",
+    "fetch-mock": "^9.10.3",
+    "jest": "^26.1.0",
+    "redux": "^4.0.5",
+    "redux-mock-store": "^1.5.4",
+    "redux-thunk": "^2.3.0"
+  }
+}
